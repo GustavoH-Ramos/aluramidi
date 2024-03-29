@@ -1,7 +1,7 @@
 <h1>Aluramidi</h1>
 
 <h2>Sobre</h2>
-<p>Projeto criado durante o curso de lógica de programação da Alura, neste projeto foi confeccionado um teclado com 9 sons.</p>
+<p>Projeto criado durante o curso de lógica de programação da Alura, nesse projeto foi confeccionado um teclado com 9 sons.</p>
 <a href = "https://aluramidi-theta.vercel.app/" class = "link">Clique aqui para acessar o projeto</a>
 </br> </br> </br>
 ##Tecnologias
